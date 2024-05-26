@@ -42,7 +42,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## <img src="https://media1.tenor.com/m/IoTET0dShKwAAAAC/refund.gif" width="10%"> Connect with me
 <p align="center">
 	  &emsp;
-	<a href="mailto:abdallahanyalsaid77@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"width="130"/></a>
+	<a href="mailto:abdallahanyalsaid77@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"width="120"/></a>
 	  &emsp;
 	<a href="https://github.com/abdalla-hany"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"width="130"/></a>
 	  &emsp;
