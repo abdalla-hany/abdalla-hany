@@ -1,19 +1,14 @@
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
-</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--h1 with bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Abdalla Hany </h1></summary>
+  </ul>
+</div>
 
-<br>
-
-<!-- 
-<p align="center"> 
-	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="7oSkaaa" target="_blank", width=46%/> 
-	</a>
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="7oSkaaa" width=19.40%/>
-</p>
- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
