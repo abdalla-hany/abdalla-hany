@@ -39,7 +39,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media1.tenor.com/m/IoTET0dShKwAAAAC/refund.gif" width="10%"> Connect with me
+## <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="10%"> Connect with me
 <p align="center">
 	  &emsp;
 	<a href="mailto:abdallahanyalsaid77@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"width="120"/></a>
