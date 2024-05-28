@@ -126,7 +126,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   &emsp;
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
+ ### <img src = "https://steemitimages.com/p/9RTqgzgfVW71fTRU48cXncZB7pmyTiTeiZpk4LMMXsJ9m752TZ4t73EEo7HMTcm8w43tPqSBoj?format=match&mode=fit" width=5%>  Operating Systems
  
 <p align="center">
   &emsp;
