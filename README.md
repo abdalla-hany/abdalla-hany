@@ -128,22 +128,29 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <p align="center">
    &emsp; 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="Embedded C" src="https://img.shields.io/badge/Embedded C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"width="150"></a> 
+    <a href="https://www.raspberrypi.org/" target="_blank"> 
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-BC001A.svg?style=plastic&logo=Raspberry pi&logoColor=white"width="180"></a> 
     &emsp; 
-    <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img alt="Atmel Avr" src="https://img.shields.io/badge/Atmel%20AVR-%23F05033.svg?style=plastic&logo=Microchip&logoColor=white" width="120"></a>
+    <a href="https://www.qemu.org/"><img alt="Qemu" src="https://img.shields.io/badge/Qemu-FF4600.svg?style=plastic&logo=Qemu&logoColor=white" width="120"></a>
     &emsp;
-    <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-008b8b.svg?style=plastic&logo=arduino&logoColor=white" width="130"></a>
+    <a href="https://www.yoctoproject.org/"><img alt="Yocto Project" src="https://img.shields.io/badge/Yocto%20Project-0056DA.svg?style=plastic&logo=yocto&logoColor=white" width="160"></a>
     &emsp;
-    <a href="https://www.labcenter.com/"><img alt="Proteus" src="https://img.shields.io/badge/Proteus-00296f?style=plastic&logo=Proteus&logoColor=white" width="120"></a>
+</p>
+
+ ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgA6mlZ4GMDgAfs1JtfKMIadntBjJXBDWV-xUr91-eWiu88KNtd2d5Z7KNMf121Rn9OEQ&usqp=CAU" width=5%>  Testing & Debugging
+
+<p align="center">
+   &emsp; 
+    <a href="#" target="_blank"> 
+    <img alt="Manual Testing" src="https://img.shields.io/badge/Manual%20Testing-9B8100.svg?style=plastic&logo=testing&logoColor=white"width="160"></a> 
+    &emsp; 
+    <a href="#"><img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-BC001A.svg?style=plastic&logo=Unit Testing&logoColor=white" width="140"></a>
     &emsp;
-    <a href="https://www.freertos.org/about-RTOS.html"><img alt="RTOS" src="https://img.shields.io/badge/RTOS-00de3b?style=plastic&logo=RTOS&logoColor=white" width="70"></a>
+    <a href="https://www.sourceware.org/gdb/"><img alt="GDB" src="https://img.shields.io/badge/GDB-585858.svg?style=plastic&logo=gnu&logoColor=white" width="100"></a>
     &emsp;
-    <a href="https://www.rohde-schwarz.com/us/products/test-and-measurement/essentials-test-equipment/digital-oscilloscopes/understanding-uart_254524.html#:~:text=UART%20stands%20for%20universal%20asynchronous,and%20receive%20in%20both%20directions."><img alt="UART" src="https://img.shields.io/badge/-UART-FE7A16?style=plastic&logo=UART&logoColor=white" width="70"></a>
+    <a href="https://valgrind.org/"><img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-E6E900.svg?style=plastic&logo=valgrind&logoColor=white" width="100"></a>
     &emsp;
-    <a href="https://learn.sparkfun.com/tutorials/i2c/all"><img alt="I2C" src="https://img.shields.io/badge/I2C-000000.svg?style=plastic&logo=I2C&logoColor=white" width="50"></a>
-    &emsp;
-    <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all"><img alt="SPI" src="https://img.shields.io/badge/SPI-%230F9D58.svg?style=plastic&logo=SPI&logoColor=white" width="50"></a>
+    <a href="https://www.doxygen.nl/"><img alt="Doxygen" src="https://img.shields.io/badge/Doxygen-0056DA.svg?style=plastic&logo=Doxygen&logoColor=white" width="140"></a>
     &emsp;
 </p>
 
