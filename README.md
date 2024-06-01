@@ -77,27 +77,23 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
 
 <p align="center">
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" width="80"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" width="80"></a>
     &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="120"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="120"></a>
     &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="190"></a>
+    <a href="https://docs.google.com/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="190"></a>
     &emsp;
-    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="120"></a>
+    <a href="https://cmake.org/"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="120"></a>
     &emsp;
-    <a href="#"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white" width="110"></a>
+    <a href="https://www.gnu.org/software/make/manual/make.html"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white" width="110"></a>
     &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" width="180"></a>
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" width="180"></a>
     &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" width="180"></a>
+    <a href="https://www.geeksforgeeks.org/"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" width="180"></a>
     &emsp;
-<!--
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" width="90"></a>
+    <a href="https://linuxconfig.org/bash-scripting-tutorial"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white" width="150"></a>
     &emsp;
-	-->
-    <a href="#"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white" width="150"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232370ED.svg?&style=plastic&logo=docker&logoColor=white" width="110"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-003EC2.svg?&style=plastic&logo=docker&logoColor=white" width="110"></a>
     &emsp;
 </p>
 
@@ -144,13 +140,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <a href="#" target="_blank"> 
     <img alt="Manual Testing" src="https://img.shields.io/badge/Manual%20Testing-9B8100.svg?style=plastic&logo=testing&logoColor=white"width="160"></a> 
     &emsp; 
-    <a href="#"><img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-BC001A.svg?style=plastic&logo=Unit Testing&logoColor=white" width="140"></a>
+    <a href="#"><img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-BC001A.svg?style=plastic&logo=Unit Testing&logoColor=white" width="135"></a>
     &emsp;
-    <a href="https://www.sourceware.org/gdb/"><img alt="GDB" src="https://img.shields.io/badge/GDB-585858.svg?style=plastic&logo=gnu&logoColor=white" width="100"></a>
+    <a href="https://www.sourceware.org/gdb/"><img alt="GDB" src="https://img.shields.io/badge/GDB-585858.svg?style=plastic&logo=gnu&logoColor=white" width="90"></a>
     &emsp;
-    <a href="https://valgrind.org/"><img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-E6E900.svg?style=plastic&logo=valgrind&logoColor=white" width="100"></a>
+    <a href="https://valgrind.org/"><img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-E6E900.svg?style=plastic&logo=valgrind&logoColor=white" width="90"></a>
     &emsp;
-    <a href="https://www.doxygen.nl/"><img alt="Doxygen" src="https://img.shields.io/badge/Doxygen-0056DA.svg?style=plastic&logo=Doxygen&logoColor=white" width="140"></a>
+    <a href="https://www.doxygen.nl/"><img alt="Doxygen" src="https://img.shields.io/badge/Doxygen-FE7A16.svg?style=plastic&logo=Doxygen&logoColor=white" width="130"></a>
+    &emsp;
+	<a href="https://github.com/google/googletest"><img alt="Google Testing" src="https://img.shields.io/badge/Google%20Testing-0056DA.svg?style=plastic&logo=Google&logoColor=white" width="180"></a>
     &emsp;
 </p>
 
@@ -158,11 +156,11 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" width="240"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" width="240"></a>
   &emsp;
-    <a href="#"><img alt="code blocks" src="https://img.shields.io/badge/code%20blocks-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" width="140"></a>
+    <a href="https://www.codeblocks.org/"><img alt="code blocks" src="https://img.shields.io/badge/code%20blocks-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" width="140"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" width="160"/></a>
+    <a href="https://www.eclipse.org/downloads/"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" width="160"/></a>
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
@@ -182,11 +180,11 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" width="110"></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" width="110"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" width="130"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" width="130"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="140"></a>
+    <a href="https://www.microsoft.com/en-us/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="140"></a>
   &emsp;
 </p>
 
