@@ -30,8 +30,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Embedded Software Engineer.
-- :school: I am a `Fresh Graduate` from the [Faculty of Mechatronics Engineering](https://o6u.edu.eg/dpages.aspx?FactId=1&id=422) at [October 6 University](https://o6u.edu.eg/default.aspx?id=70).
+- 👨‍💻 I'm a Software Engineer Interested in `Embedded Bare Metal` and `Embedded linux`.
+- :school: I am a `Fresh Graduate Mechatronics Engineer`.
 - ✍🏻 I love using Software as a solution for every Problem.
 - 🤓 Always learning new things.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1VBydo3sATCNfcVttpv6WO6KqB7h51ps8/view?usp=sharing).
@@ -62,20 +62,16 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"width="70">
-  </a> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"width="70"></a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"width="110">
-  </a> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"width="110"></a> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"width="130">
-  </a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"width="130"></a>
   &emsp;
    <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23EA4335.svg?style=plastic&logo=Rust&logoColor=white"width="110">
-  </a>	
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23EA4335.svg?style=plastic&logo=Rust&logoColor=white"width="110"></a>	
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
@@ -105,7 +101,53 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src="https://community.facer.io/uploads/default/original/3X/8/7/8714404dbc0e26b3989e51cd986d7b3e2ead3c83.gif" width=5%>  Embedded Systems Bare Metal
+
+<p align="center">
+   &emsp; 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="Embedded C" src="https://img.shields.io/badge/Embedded C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"width="150"></a> 
+    &emsp; 
+    <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img alt="Atmel Avr" src="https://img.shields.io/badge/Atmel%20AVR-%23F05033.svg?style=plastic&logo=Microchip&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-008b8b.svg?style=plastic&logo=arduino&logoColor=white" width="130"></a>
+    &emsp;
+    <a href="https://www.labcenter.com/"><img alt="Proteus" src="https://img.shields.io/badge/Proteus-00296f?style=plastic&logo=Proteus&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="https://www.freertos.org/about-RTOS.html"><img alt="RTOS" src="https://img.shields.io/badge/RTOS-00de3b?style=plastic&logo=RTOS&logoColor=white" width="70"></a>
+    &emsp;
+    <a href="https://www.rohde-schwarz.com/us/products/test-and-measurement/essentials-test-equipment/digital-oscilloscopes/understanding-uart_254524.html#:~:text=UART%20stands%20for%20universal%20asynchronous,and%20receive%20in%20both%20directions."><img alt="UART" src="https://img.shields.io/badge/-UART-FE7A16?style=plastic&logo=UART&logoColor=white" width="70"></a>
+    &emsp;
+    <a href="https://learn.sparkfun.com/tutorials/i2c/all"><img alt="I2C" src="https://img.shields.io/badge/I2C-000000.svg?style=plastic&logo=I2C&logoColor=white" width="50"></a>
+    &emsp;
+    <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all"><img alt="SPI" src="https://img.shields.io/badge/SPI-%230F9D58.svg?style=plastic&logo=SPI&logoColor=white" width="50"></a>
+    &emsp;
+</p>
+
+ ### <img src="https://media.licdn.com/dms/image/C5612AQG-hSatusSeDg/article-cover_image-shrink_600_2000/0/1610367140269?e=2147483647&v=beta&t=K-VGA1dezt2asOxlOs6oDcbl7SMURmvMbvzH8vXMCvY" width=5%>  Embedded Linux
+
+<p align="center">
+   &emsp; 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="Embedded C" src="https://img.shields.io/badge/Embedded C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"width="150"></a> 
+    &emsp; 
+    <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img alt="Atmel Avr" src="https://img.shields.io/badge/Atmel%20AVR-%23F05033.svg?style=plastic&logo=Microchip&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-008b8b.svg?style=plastic&logo=arduino&logoColor=white" width="130"></a>
+    &emsp;
+    <a href="https://www.labcenter.com/"><img alt="Proteus" src="https://img.shields.io/badge/Proteus-00296f?style=plastic&logo=Proteus&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="https://www.freertos.org/about-RTOS.html"><img alt="RTOS" src="https://img.shields.io/badge/RTOS-00de3b?style=plastic&logo=RTOS&logoColor=white" width="70"></a>
+    &emsp;
+    <a href="https://www.rohde-schwarz.com/us/products/test-and-measurement/essentials-test-equipment/digital-oscilloscopes/understanding-uart_254524.html#:~:text=UART%20stands%20for%20universal%20asynchronous,and%20receive%20in%20both%20directions."><img alt="UART" src="https://img.shields.io/badge/-UART-FE7A16?style=plastic&logo=UART&logoColor=white" width="70"></a>
+    &emsp;
+    <a href="https://learn.sparkfun.com/tutorials/i2c/all"><img alt="I2C" src="https://img.shields.io/badge/I2C-000000.svg?style=plastic&logo=I2C&logoColor=white" width="50"></a>
+    &emsp;
+    <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all"><img alt="SPI" src="https://img.shields.io/badge/SPI-%230F9D58.svg?style=plastic&logo=SPI&logoColor=white" width="50"></a>
+    &emsp;
+</p>
+
+ ### <img src = "https://steemitimages.com/p/9RTqgzgfVW71fTRU48cXncZB7pmyTiTeiZpk4LMMXsJ9m752TZ4t73EEo7HMTcm8w43tPqSBoj?format=match&mode=fit" width=5%> IDEs
  
 <p align="center">
   &emsp;
@@ -128,7 +170,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   &emsp;
 </p>
 
- ### <img src = "https://steemitimages.com/p/9RTqgzgfVW71fTRU48cXncZB7pmyTiTeiZpk4LMMXsJ9m752TZ4t73EEo7HMTcm8w43tPqSBoj?format=match&mode=fit" width=5%>  Operating Systems
+ ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%>  Operating Systems
+ 
  
 <p align="center">
   &emsp;
