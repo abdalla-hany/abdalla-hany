@@ -70,8 +70,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"width="130"></a>
   &emsp;
+<!--	
    <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23EA4335.svg?style=plastic&logo=Rust&logoColor=white"width="110"></a>	
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23EA4335.svg?style=plastic&logo=Rust&logoColor=white"width="110"></a>
+-->
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
@@ -83,18 +85,22 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
     <a href="https://docs.google.com/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="190"></a>
     &emsp;
+<!--
     <a href="https://cmake.org/"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="120"></a>
     &emsp;
     <a href="https://www.gnu.org/software/make/manual/make.html"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white" width="110"></a>
     &emsp;
+-->
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" width="180"></a>
     &emsp;
     <a href="https://www.geeksforgeeks.org/"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" width="180"></a>
     &emsp;
+<!--
     <a href="https://linuxconfig.org/bash-scripting-tutorial"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white" width="150"></a>
     &emsp;
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-003EC2.svg?&style=plastic&logo=docker&logoColor=white" width="110"></a>
     &emsp;
+-->
 </p>
 
  ### <img src="https://community.facer.io/uploads/default/original/3X/8/7/8714404dbc0e26b3989e51cd986d7b3e2ead3c83.gif" width=5%>  Embedded Systems Bare Metal
@@ -119,9 +125,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all"><img alt="SPI" src="https://img.shields.io/badge/SPI-%230F9D58.svg?style=plastic&logo=SPI&logoColor=white" width="50"></a>
     &emsp;
 </p>
-
+<!--
  ### <img src="https://media.licdn.com/dms/image/C5612AQG-hSatusSeDg/article-cover_image-shrink_600_2000/0/1610367140269?e=2147483647&v=beta&t=K-VGA1dezt2asOxlOs6oDcbl7SMURmvMbvzH8vXMCvY" width=5%>  Embedded Linux
-
+ -->
+<!--
 <p align="center">
    &emsp; 
     <a href="https://www.raspberrypi.org/" target="_blank"> 
@@ -132,6 +139,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <a href="https://www.yoctoproject.org/"><img alt="Yocto Project" src="https://img.shields.io/badge/Yocto%20Project-0056DA.svg?style=plastic&logo=yocto&logoColor=white" width="160"></a>
     &emsp;
 </p>
+-->
 
  ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgA6mlZ4GMDgAfs1JtfKMIadntBjJXBDWV-xUr91-eWiu88KNtd2d5Z7KNMf121Rn9OEQ&usqp=CAU" width=5%>  Testing & Debugging
 
@@ -144,12 +152,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
     <a href="https://www.sourceware.org/gdb/"><img alt="GDB" src="https://img.shields.io/badge/GDB-585858.svg?style=plastic&logo=gnu&logoColor=white" width="90"></a>
     &emsp;
-    <a href="https://valgrind.org/"><img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-E6E900.svg?style=plastic&logo=valgrind&logoColor=white" width="90"></a>
+    <a href="https://valgrind.org/"><img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-E6E900.svg?style=plastic&logo=valgrind&logoColor=white" width="100"></a>
     &emsp;
+<!--
     <a href="https://www.doxygen.nl/"><img alt="Doxygen" src="https://img.shields.io/badge/Doxygen-FE7A16.svg?style=plastic&logo=Doxygen&logoColor=white" width="130"></a>
     &emsp;
 	<a href="https://github.com/google/googletest"><img alt="Google Testing" src="https://img.shields.io/badge/Google%20Testing-0056DA.svg?style=plastic&logo=Google&logoColor=white" width="180"></a>
     &emsp;
+-->
 </p>
 
  ### <img src = "https://steemitimages.com/p/9RTqgzgfVW71fTRU48cXncZB7pmyTiTeiZpk4LMMXsJ9m752TZ4t73EEo7HMTcm8w43tPqSBoj?format=match&mode=fit" width=5%> IDEs
