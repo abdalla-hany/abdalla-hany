@@ -177,12 +177,13 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
  
 <p align="center">
   &emsp;
-    <a href="https://codeforces.com/"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" width="150"/></a>	
+    <a href="https://www.hackerrank.com/profile/abdallahanyalsa1"><img alt = "hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" width="150"/></a>
   &emsp;
     <a href="https://leetcode.com/u/abdallahanyalsaid77/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" width="130"/></a>
   &emsp;
-    <a href="https://www.hackerrank.com/profile/abdallahanyalsa1"><img alt = "hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" width="150"/></a>
+      <a href="https://codeforces.com/"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" width="150"/></a>	
   &emsp;
+
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%>  Operating Systems
