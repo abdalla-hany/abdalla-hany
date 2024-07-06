@@ -154,9 +154,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
     <a href="https://valgrind.org/"><img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-E6E900.svg?style=plastic&logo=valgrind&logoColor=white" width="100"></a>
     &emsp;
-<!--
     <a href="https://www.doxygen.nl/"><img alt="Doxygen" src="https://img.shields.io/badge/Doxygen-FE7A16.svg?style=plastic&logo=Doxygen&logoColor=white" width="130"></a>
     &emsp;
+<!--
 	<a href="https://github.com/google/googletest"><img alt="Google Testing" src="https://img.shields.io/badge/Google%20Testing-0056DA.svg?style=plastic&logo=Google&logoColor=white" width="180"></a>
     &emsp;
 -->
